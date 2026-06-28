@@ -33,3 +33,5 @@ https://radio-trtvoteast.medya.trt.com.tr/master.m3u8
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTVotWest.tr@SD" tvg-name="TRT Vot West" group-title="Canlı Radyolar" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w480/h480/q70//w480/h480/q70/12467515.jpeg", TRT VOT West
 https://radio-trtvotwest.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Disneyjunior.tr@HD" tvg-name="Disney Jr." group-title="Canlı TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/78/Disney_Junior-hd-.png/1280px-Disney_Junior-hd-.png", Disney Jr. TR HD
+https://saran-live.ercdn.net/disneyjunior/disneyjunior1080p_1.m3u8
